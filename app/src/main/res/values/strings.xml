@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My_JNI_NDK_Demo</string>
+    <string name="action_settings">Settings</string>
+</resources>
