@@ -5,7 +5,7 @@ add_library( # Sets the name of the library.
              # Sets the library as a shared library.
              SHARED
              # Provides a relative path to your source file(s).
-             src/main/cpp/native-lib.cpp )
+        native-lib.cpp)
 
 find_library( # Defines the name of the path variable that stores the
               # location of the NDK library.
